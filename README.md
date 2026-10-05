@@ -174,7 +174,7 @@ List endpoints accept `sortBy` and `order=asc|desc`. Admin lists also accept `na
 ![Store list with ratings and ranking score](screenshots/User_Dash.png)
 
 ### Store owner: dashboard
-![Store owner dashboard](screenshots/screenshots/Storeowner_Dash.png)
+![Store owner dashboard](screenshots/Storeowner_Dash.png)
 
 ### System administrator
 | English | Marathi (मराठी) |
