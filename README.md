@@ -165,7 +165,26 @@ List endpoints accept `sortBy` and `order=asc|desc`. Admin lists also accept `na
 
 ## Screenshots
 
-_Add screenshots here: login page, store list, owner dashboard, admin analytics, Marathi view._
+### Login and signup
+| Login (English) | Login (Marathi) | Signup |
+|---|---|---|
+| <img src="screenshots/login.png" width="300" alt="Login page"> | <img src="screenshots/login-marathi.png" width="300" alt="Login page in Marathi"> | <img src="screenshots/signup.png" width="300" alt="Signup page"> |
+
+### Normal user: browse and rate stores
+![Store list with ratings and ranking score](screenshots/user-stores.png)
+
+### Store owner: dashboard
+![Store owner dashboard](screenshots/owner-dashboard.png)
+
+### System administrator
+| English | Marathi (मराठी) |
+|---|---|
+| <img src="screenshots/admin-dashboard.png" width="450" alt="Admin dashboard"> | <img src="screenshots/admin-dashboard-marathi.png" width="450" alt="Admin dashboard in Marathi"> |
+
+### Admin analytics
+| Ratings per day and top stores | Active users and rating breakdown |
+|---|---|
+| <img src="screenshots/analytics-1.png" width="450" alt="Analytics part 1"> | <img src="screenshots/analytics-2.png" width="450" alt="Analytics part 2"> |
 
 ## Possible future improvements
 
