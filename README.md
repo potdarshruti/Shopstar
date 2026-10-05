@@ -168,7 +168,7 @@ List endpoints accept `sortBy` and `order=asc|desc`. Admin lists also accept `na
 ### Login and signup
 | Login (English) | Login (Marathi) | Signup |
 |---|---|---|
-| <img src="screenshots/login.png" width="300" alt="Login page"> | <img src="screenshots/loginM.png" width="300" alt="Login page in Marathi"> | <img src="screenshots/signup.png" width="300" alt="Signup page"> |
+| <img src="screenshots/Login.png" width="300" alt="Login page"> | <img src="screenshots/loginM.png" width="300" alt="Login page in Marathi"> | <img src="screenshots/Signup.png" width="300" alt="Signup page"> |
 
 ### Normal user: browse and rate stores
 ![Store list with ratings and ranking score](screenshots/User_Dash.png)
@@ -184,7 +184,7 @@ List endpoints accept `sortBy` and `order=asc|desc`. Admin lists also accept `na
 ### Admin analytics
 | Ratings per day and top stores | Active users and rating breakdown |
 |---|---|
-| <img src="screenshots/Analytics1" width="450" alt="Analytics part 1"> | <img src="screenshots/Analytics2.png" width="450" alt="Analytics part 2"> |
+| <img src="screenshots/Analytics1.png" width="450" alt="Analytics part 1"> | <img src="screenshots/Analytics2.png" width="450" alt="Analytics part 2"> |
 
 ## Possible future improvements
 
