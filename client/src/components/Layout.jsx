@@ -12,7 +12,7 @@ export default function Layout() {
   return (
     <>
       <header className="topbar">
-        <strong className="brand">{t('Storefront Ratings')}</strong>
+        <strong className="brand">{t('ShopStar ⭐')}</strong>
         <nav>
           <NavLink to={home} end>{user.role === 'user' ? t('Stores') : t('Dashboard')}</NavLink>
           {user.role === 'admin' && <NavLink to="/admin/analytics">{t('Analytics')}</NavLink>}

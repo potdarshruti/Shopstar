@@ -1,6 +1,7 @@
 // Marathi translations, keyed by the English text used in the UI.
 export default {
   // navigation / layout
+  'ShopStar':'ShopStar',
   'Storefront Ratings': 'स्टोअरफ्रंट रेटिंग्ज',
   'Stores': 'दुकाने',
   'Dashboard': 'डॅशबोर्ड',
